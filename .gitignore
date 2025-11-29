@@ -1,0 +1,129 @@
+chrome_profile/
+.DS_Store
+node_modules/
+.env
+.vscode/
+
+dist/
+build/
+logs/
+*.log
+coverage/
+.idea/
+*.iml   
+*.swp
+thumbs.db
+*.bak
+*.tmp
+
+# OS generated files
+ehthumbs.db
+Desktop.ini 
+$RECYCLE.BIN/
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+__pycache__/
+
+
+
+# Dependency directories
+vendor/
+.bundle/
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+# Optional stylelint cache
+.stylelintcache
+# Optional REPL history
+.node_repl_history
+# Output of 'npm pack'
+
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local   
+
+
+
+
+# Next.js build output
+.next/
+out/
+# Nuxt.js build output
+.nuxt/
+dist/
+# Gatsby files
+.cache/
+public/     
+# VuePress build output
+.vuepress/dist
+# Serverless directories
+.serverless/
+# FuseBox cache
+.fusebox/
+# DynamoDB Local files
+.dynamodb/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+   
